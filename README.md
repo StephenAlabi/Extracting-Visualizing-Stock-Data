@@ -1,4 +1,4 @@
-# Extracting-Visualizing-Stock-Data
+# Stock Data
 # Define a Function that Makes a Graph
 # Use yfinance to Extract Stock Data
 # Use Webscraping to Extract Tesla Revenue Data
